@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  taskList: 
+  name: MyString
+  password: MyString
+  uniqueID: MyString
+
+two:
+  taskList: 
+  name: MyString
+  password: MyString
+  uniqueID: MyString

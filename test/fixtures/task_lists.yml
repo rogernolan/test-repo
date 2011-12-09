@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  completed: 1
+  title: MyString
+  uniqueId: MyString
+  tasks: 
+
+two:
+  completed: 1
+  title: MyString
+  uniqueId: MyString
+  tasks: 
