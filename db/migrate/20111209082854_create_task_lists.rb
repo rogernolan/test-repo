@@ -4,7 +4,6 @@ class CreateTaskLists < ActiveRecord::Migration
       t.integer :completed
       t.string :title
       t.string :uniqueId
-      t.Tasks :tasks
 
       t.timestamps
     end
